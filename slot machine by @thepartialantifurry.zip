@@ -306,7 +306,7 @@ body {
             jackpotProbability = 1 / value;
             document.getElementById('probability-value').textContent = `1/${value}`;
         });
-
+/*this shit made by @thepartialantifurry look me up*/
         function spin() {
             const reels = [
                 document.getElementById('reel-container1'),
