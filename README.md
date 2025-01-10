@@ -6,3 +6,6 @@ ill fly you to la free of charge man
 
 oh and the difference between this and the old one is now i added 
 reserve balls  and increased probability mode faster spins does nothing btw
+it just summons an invisible green ball
+also you have to wait for the effects that show up
+to dissapear for the probability changes to take effect
