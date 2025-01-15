@@ -9,3 +9,5 @@ reserve balls  and increased probability mode faster spins does nothing btw
 it just summons an invisible green ball
 also you have to wait for the effects that show up
 to dissapear for the probability changes to take effect
+
+oh also its a website
