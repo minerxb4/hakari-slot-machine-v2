@@ -11,3 +11,5 @@ also you have to wait for the effects that show up
 to dissapear for the probability changes to take effect
 
 oh also its a website
+
+https://minerxb4.github.io/
